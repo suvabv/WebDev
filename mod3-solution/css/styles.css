@@ -1,0 +1,136 @@
+*{
+				box-sizing: border-box;
+				}
+
+body{
+				background-color:#361300;
+				color:white;
+				font-family: 'Montserrat', sans-serif;
+				}
+
+#header-nav{
+				background-color:#ffdca2;
+				border-radius:0;
+				border:0;
+				}
+
+.navbar-brand{
+				
+
+  font-size: 1.4em;
+  border: 0 0 10px 10px;
+}
+
+#nav-list{
+				margin-top:10px;
+				padding:0;
+				}
+				
+	#nav-list a{
+					text-align:center;
+					}	
+		
+	#nav-list a:hover{
+					background-color:#FFE4C4
+					}
+					
+	#nav-list a span{
+					padding:0px;
+					color:#361300;
+					}	
+					
+				.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid #361300;
+} 
+
+/*Main Content*/
+
+h1 {
+				font-size: 175%;
+	color: maroon;
+	text-align: center;
+}
+
+section p{
+	padding: 10px;
+	margin: 0;
+}
+
+.container {
+	border: none;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 0;
+	margin-bottom: 0;
+	padding: 10px;
+}
+
+ section {
+	border:	1px solid black;
+	background-color:#ffdca2;
+	width: 100%;
+	height: auto;
+	color: black;
+	position: relative;
+  overflow: auto;
+}
+
+.title {
+				border: 1px solid black;
+	text-align: center;
+	width: 30%;
+	margin-left: 70%;
+	font-weight: bold;
+	font-size: 125%;
+	margin-bottom: 0;
+	margin-top: 0;
+	padding: 5px;
+	position:relative;
+	top:-1px;
+	right:-1px;
+				}
+
+#chicken{
+				background-color:#635012;}
+#beef{
+				background-color:#490d3b;
+				}
+#fish{
+				background-color:#490007;
+				}
+
+
+.row{
+				width:100%;
+				}
+
+#chicken-d {
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+#beef-d {
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+#fish-d {
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+.nav-brand{
+				font-size:2em;
+				color:#361300;
+				}
+
+hr{
+				border-color:#361300;
+				}
+h1{
+				color:#ffdca2;}
+
+ul{
+	margin-block-start:0;
+	margin-block-end:0;
+}
